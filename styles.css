@@ -394,6 +394,15 @@ footer {
 
     .Project-Card {
         width: 250px;
+        border-bottom: none;
+    }
+
+    .Left-Border-Mobile {
+        border-left: 5px solid var(--green);
+    }
+
+    .Right-Border-Mobile {
+        border-right: 5px solid var(--green);
     }
 
     .Arrow-Right {
